@@ -1,0 +1,12 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing & Browser Tooling
+.playwright-mcp/
+*.log
+
+# Editor & Local configs
+.vscode/
+.idea/
