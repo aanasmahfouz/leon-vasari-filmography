@@ -2,9 +2,12 @@
 
 An archival, single-screen **interactive 3D filmography hero** for fictional Japanese auteur director **Leon Vasari (1958–1989)**. Built with **100% vanilla HTML5, CSS3 3D Transforms, and ES6+ JavaScript** — crafted with zero external libraries, zero frameworks, and zero build tools.
 
-[![Live on Vercel](https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel)](https://leon-vasari-filmography.vercel.app)
+[![Live on Vercel](https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel)](https://leon-vasari-filmography-tan.vercel.app)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/aanasmahfouz/leon-vasari-filmography)
 [![Code Architecture](https://img.shields.io/badge/Stack-Vanilla_HTML_CSS_JS-E34F26?style=for-the-badge&logo=javascript)](./index.html)
+
+**🌐 Live Demo:** [https://leon-vasari-filmography-tan.vercel.app](https://leon-vasari-filmography-tan.vercel.app) (Mirror: [leon-vasari-filmography-anas-mahfouz1.vercel.app](https://leon-vasari-filmography-anas-mahfouz1.vercel.app))
+
 
 ---
 
